@@ -1,0 +1,10 @@
+@using DevExpress.AspNetCore
+@using DevExpress.AspNetCore.RichEdit;
+
+@(Html.DevExpress().RichEdit("DemoRichEdit")
+    .Views(v => v.ViewType(ViewType.Simple))
+    .Ribbon(r => r.ActiveTabIndex(6))
+    .Height(600)
+    .ConfirmOnLosingChanges(c => c.Enabled(false))
+    .Open("Documents/AlbertEinstein.docx")
+)

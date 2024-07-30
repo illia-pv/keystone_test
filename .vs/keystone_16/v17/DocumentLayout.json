@@ -1,0 +1,329 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ilushka228\\Desktop\\KeyStone\\keystone-web\\ks_16\\keystone_16\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61992065-2A78-44DF-95DA-4901473359B9}|keystone_16.csproj|c:\\users\\ilushka228\\desktop\\keystone\\keystone-web\\ks_16\\keystone_16\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61992065-2A78-44DF-95DA-4901473359B9}|keystone_16.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61992065-2A78-44DF-95DA-4901473359B9}|keystone_16.csproj|c:\\users\\ilushka228\\desktop\\keystone\\keystone-web\\ks_16\\keystone_16\\pages\\shared\\_devextremelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61992065-2A78-44DF-95DA-4901473359B9}|keystone_16.csproj|solutionrelative:pages\\shared\\_devextremelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61992065-2A78-44DF-95DA-4901473359B9}|keystone_16.csproj|c:\\users\\ilushka228\\desktop\\keystone\\keystone-web\\ks_16\\keystone_16\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61992065-2A78-44DF-95DA-4901473359B9}|keystone_16.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61992065-2A78-44DF-95DA-4901473359B9}|keystone_16.csproj|c:\\users\\ilushka228\\desktop\\keystone\\keystone-web\\ks_16\\keystone_16\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61992065-2A78-44DF-95DA-4901473359B9}|keystone_16.csproj|solutionrelative:pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61992065-2A78-44DF-95DA-4901473359B9}|keystone_16.csproj|c:\\users\\ilushka228\\desktop\\keystone\\keystone-web\\ks_16\\keystone_16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61992065-2A78-44DF-95DA-4901473359B9}|keystone_16.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61992065-2A78-44DF-95DA-4901473359B9}|keystone_16.csproj|c:\\users\\ilushka228\\desktop\\keystone\\keystone-web\\ks_16\\keystone_16\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61992065-2A78-44DF-95DA-4901473359B9}|keystone_16.csproj|solutionrelative:pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61992065-2A78-44DF-95DA-4901473359B9}|keystone_16.csproj|c:\\users\\ilushka228\\desktop\\keystone\\keystone-web\\ks_16\\keystone_16\\pages\\richedit\\simpleview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61992065-2A78-44DF-95DA-4901473359B9}|keystone_16.csproj|solutionrelative:pages\\richedit\\simpleview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61992065-2A78-44DF-95DA-4901473359B9}|keystone_16.csproj|c:\\users\\ilushka228\\desktop\\keystone\\keystone-web\\ks_16\\keystone_16\\pages\\richedit\\ribboncustomization.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61992065-2A78-44DF-95DA-4901473359B9}|keystone_16.csproj|solutionrelative:pages\\richedit\\ribboncustomization.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61992065-2A78-44DF-95DA-4901473359B9}|keystone_16.csproj|c:\\users\\ilushka228\\desktop\\keystone\\keystone-web\\ks_16\\keystone_16\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61992065-2A78-44DF-95DA-4901473359B9}|keystone_16.csproj|solutionrelative:models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61992065-2A78-44DF-95DA-4901473359B9}|keystone_16.csproj|c:\\users\\ilushka228\\desktop\\keystone\\keystone-web\\ks_16\\keystone_16\\models\\sampledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61992065-2A78-44DF-95DA-4901473359B9}|keystone_16.csproj|solutionrelative:models\\sampledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61992065-2A78-44DF-95DA-4901473359B9}|keystone_16.csproj|c:\\users\\ilushka228\\desktop\\keystone\\keystone-web\\ks_16\\keystone_16\\pages\\richedit\\overview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61992065-2A78-44DF-95DA-4901473359B9}|keystone_16.csproj|solutionrelative:pages\\richedit\\overview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61992065-2A78-44DF-95DA-4901473359B9}|keystone_16.csproj|c:\\users\\ilushka228\\desktop\\keystone\\keystone-web\\ks_16\\keystone_16\\pages\\richedit\\loadandsave.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61992065-2A78-44DF-95DA-4901473359B9}|keystone_16.csproj|solutionrelative:pages\\richedit\\loadandsave.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61992065-2A78-44DF-95DA-4901473359B9}|keystone_16.csproj|c:\\users\\ilushka228\\desktop\\keystone\\keystone-web\\ks_16\\keystone_16\\pages\\richedit\\documentprotection.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61992065-2A78-44DF-95DA-4901473359B9}|keystone_16.csproj|solutionrelative:pages\\richedit\\documentprotection.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61992065-2A78-44DF-95DA-4901473359B9}|keystone_16.csproj|c:\\users\\ilushka228\\desktop\\keystone\\keystone-web\\ks_16\\keystone_16\\pages\\richedit\\contextmenucustomization.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61992065-2A78-44DF-95DA-4901473359B9}|keystone_16.csproj|solutionrelative:pages\\richedit\\contextmenucustomization.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61992065-2A78-44DF-95DA-4901473359B9}|keystone_16.csproj|c:\\users\\ilushka228\\desktop\\keystone\\keystone-web\\ks_16\\keystone_16\\pages\\richedit\\autocorrect.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61992065-2A78-44DF-95DA-4901473359B9}|keystone_16.csproj|solutionrelative:pages\\richedit\\autocorrect.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61992065-2A78-44DF-95DA-4901473359B9}|keystone_16.csproj|c:\\users\\ilushka228\\desktop\\keystone\\keystone-web\\ks_16\\keystone_16\\pages\\richedit\\dynamiccontent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61992065-2A78-44DF-95DA-4901473359B9}|keystone_16.csproj|solutionrelative:pages\\richedit\\dynamiccontent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61992065-2A78-44DF-95DA-4901473359B9}|keystone_16.csproj|c:\\users\\ilushka228\\desktop\\keystone\\keystone-web\\ks_16\\keystone_16\\pages\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{61992065-2A78-44DF-95DA-4901473359B9}|keystone_16.csproj|solutionrelative:pages\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61992065-2A78-44DF-95DA-4901473359B9}|keystone_16.csproj|c:\\users\\ilushka228\\desktop\\keystone\\keystone-web\\ks_16\\keystone_16\\controller\\richeditcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61992065-2A78-44DF-95DA-4901473359B9}|keystone_16.csproj|solutionrelative:controller\\richeditcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ilushka228\\Desktop\\KeyStone\\keystone-web\\ks_16\\keystone_16\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ilushka228\\Desktop\\KeyStone\\keystone-web\\ks_16\\keystone_16\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "Pages\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-29T12:41:57.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_DevExtremeLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ilushka228\\Desktop\\KeyStone\\keystone-web\\ks_16\\keystone_16\\Pages\\Shared\\_DevExtremeLayout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_DevExtremeLayout.cshtml",
+              "ToolTip": "C:\\Users\\ilushka228\\Desktop\\KeyStone\\keystone-web\\ks_16\\keystone_16\\Pages\\Shared\\_DevExtremeLayout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_DevExtremeLayout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-29T12:40:01.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ilushka228\\Desktop\\KeyStone\\keystone-web\\ks_16\\keystone_16\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ilushka228\\Desktop\\KeyStone\\keystone-web\\ks_16\\keystone_16\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T12:38:09.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ilushka228\\Desktop\\KeyStone\\keystone-web\\ks_16\\keystone_16\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\ilushka228\\Desktop\\KeyStone\\keystone-web\\ks_16\\keystone_16\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Index.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T12:34:46.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ilushka228\\Desktop\\KeyStone\\keystone-web\\ks_16\\keystone_16\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ilushka228\\Desktop\\KeyStone\\keystone-web\\ks_16\\keystone_16\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-29T12:34:36.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SampleData.cs",
+              "DocumentMoniker": "C:\\Users\\ilushka228\\Desktop\\KeyStone\\keystone-web\\ks_16\\keystone_16\\Models\\SampleData.cs",
+              "RelativeDocumentMoniker": "Models\\SampleData.cs",
+              "ToolTip": "C:\\Users\\ilushka228\\Desktop\\KeyStone\\keystone-web\\ks_16\\keystone_16\\Models\\SampleData.cs",
+              "RelativeToolTip": "Models\\SampleData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T12:32:38.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Company.cs",
+              "DocumentMoniker": "C:\\Users\\ilushka228\\Desktop\\KeyStone\\keystone-web\\ks_16\\keystone_16\\Models\\Company.cs",
+              "RelativeDocumentMoniker": "Models\\Company.cs",
+              "ToolTip": "C:\\Users\\ilushka228\\Desktop\\KeyStone\\keystone-web\\ks_16\\keystone_16\\Models\\Company.cs",
+              "RelativeToolTip": "Models\\Company.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T12:32:37.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ilushka228\\Desktop\\KeyStone\\keystone-web\\ks_16\\keystone_16\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ilushka228\\Desktop\\KeyStone\\keystone-web\\ks_16\\keystone_16\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-29T10:56:32.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SimpleView.cshtml",
+              "DocumentMoniker": "C:\\Users\\ilushka228\\Desktop\\KeyStone\\keystone-web\\ks_16\\keystone_16\\Pages\\RichEdit\\SimpleView.cshtml",
+              "RelativeDocumentMoniker": "Pages\\RichEdit\\SimpleView.cshtml",
+              "ToolTip": "C:\\Users\\ilushka228\\Desktop\\KeyStone\\keystone-web\\ks_16\\keystone_16\\Pages\\RichEdit\\SimpleView.cshtml",
+              "RelativeToolTip": "Pages\\RichEdit\\SimpleView.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-29T12:30:59.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RibbonCustomization.cshtml",
+              "DocumentMoniker": "C:\\Users\\ilushka228\\Desktop\\KeyStone\\keystone-web\\ks_16\\keystone_16\\Pages\\RichEdit\\RibbonCustomization.cshtml",
+              "RelativeDocumentMoniker": "Pages\\RichEdit\\RibbonCustomization.cshtml",
+              "ToolTip": "C:\\Users\\ilushka228\\Desktop\\KeyStone\\keystone-web\\ks_16\\keystone_16\\Pages\\RichEdit\\RibbonCustomization.cshtml",
+              "RelativeToolTip": "Pages\\RichEdit\\RibbonCustomization.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-29T12:30:54.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoadAndSave.cshtml",
+              "DocumentMoniker": "C:\\Users\\ilushka228\\Desktop\\KeyStone\\keystone-web\\ks_16\\keystone_16\\Pages\\RichEdit\\LoadAndSave.cshtml",
+              "RelativeDocumentMoniker": "Pages\\RichEdit\\LoadAndSave.cshtml",
+              "ToolTip": "C:\\Users\\ilushka228\\Desktop\\KeyStone\\keystone-web\\ks_16\\keystone_16\\Pages\\RichEdit\\LoadAndSave.cshtml",
+              "RelativeToolTip": "Pages\\RichEdit\\LoadAndSave.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-29T12:30:37.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DocumentProtection.cshtml",
+              "DocumentMoniker": "C:\\Users\\ilushka228\\Desktop\\KeyStone\\keystone-web\\ks_16\\keystone_16\\Pages\\RichEdit\\DocumentProtection.cshtml",
+              "RelativeDocumentMoniker": "Pages\\RichEdit\\DocumentProtection.cshtml",
+              "ToolTip": "C:\\Users\\ilushka228\\Desktop\\KeyStone\\keystone-web\\ks_16\\keystone_16\\Pages\\RichEdit\\DocumentProtection.cshtml",
+              "RelativeToolTip": "Pages\\RichEdit\\DocumentProtection.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-29T12:30:29.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ContextMenuCustomization.cshtml",
+              "DocumentMoniker": "C:\\Users\\ilushka228\\Desktop\\KeyStone\\keystone-web\\ks_16\\keystone_16\\Pages\\RichEdit\\ContextMenuCustomization.cshtml",
+              "RelativeDocumentMoniker": "Pages\\RichEdit\\ContextMenuCustomization.cshtml",
+              "ToolTip": "C:\\Users\\ilushka228\\Desktop\\KeyStone\\keystone-web\\ks_16\\keystone_16\\Pages\\RichEdit\\ContextMenuCustomization.cshtml",
+              "RelativeToolTip": "Pages\\RichEdit\\ContextMenuCustomization.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-29T12:30:23.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Autocorrect.cshtml",
+              "DocumentMoniker": "C:\\Users\\ilushka228\\Desktop\\KeyStone\\keystone-web\\ks_16\\keystone_16\\Pages\\RichEdit\\Autocorrect.cshtml",
+              "RelativeDocumentMoniker": "Pages\\RichEdit\\Autocorrect.cshtml",
+              "ToolTip": "C:\\Users\\ilushka228\\Desktop\\KeyStone\\keystone-web\\ks_16\\keystone_16\\Pages\\RichEdit\\Autocorrect.cshtml",
+              "RelativeToolTip": "Pages\\RichEdit\\Autocorrect.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-29T10:26:02.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\ilushka228\\Desktop\\KeyStone\\keystone-web\\ks_16\\keystone_16\\Pages\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\ilushka228\\Desktop\\KeyStone\\keystone-web\\ks_16\\keystone_16\\Pages\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-29T10:57:07.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DynamicContent.cshtml",
+              "DocumentMoniker": "C:\\Users\\ilushka228\\Desktop\\KeyStone\\keystone-web\\ks_16\\keystone_16\\Pages\\RichEdit\\DynamicContent.cshtml",
+              "RelativeDocumentMoniker": "Pages\\RichEdit\\DynamicContent.cshtml",
+              "ToolTip": "C:\\Users\\ilushka228\\Desktop\\KeyStone\\keystone-web\\ks_16\\keystone_16\\Pages\\RichEdit\\DynamicContent.cshtml",
+              "RelativeToolTip": "Pages\\RichEdit\\DynamicContent.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-29T10:24:56.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Overview.cshtml",
+              "DocumentMoniker": "C:\\Users\\ilushka228\\Desktop\\KeyStone\\keystone-web\\ks_16\\keystone_16\\Pages\\RichEdit\\Overview.cshtml",
+              "RelativeDocumentMoniker": "Pages\\RichEdit\\Overview.cshtml",
+              "ToolTip": "C:\\Users\\ilushka228\\Desktop\\KeyStone\\keystone-web\\ks_16\\keystone_16\\Pages\\RichEdit\\Overview.cshtml",
+              "RelativeToolTip": "Pages\\RichEdit\\Overview.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-29T10:23:45.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RichEditController.cs",
+              "DocumentMoniker": "C:\\Users\\ilushka228\\Desktop\\KeyStone\\keystone-web\\ks_16\\keystone_16\\Controller\\RichEditController.cs",
+              "RelativeDocumentMoniker": "Controller\\RichEditController.cs",
+              "ToolTip": "C:\\Users\\ilushka228\\Desktop\\KeyStone\\keystone-web\\ks_16\\keystone_16\\Controller\\RichEditController.cs",
+              "RelativeToolTip": "Controller\\RichEditController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T10:10:43.106Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

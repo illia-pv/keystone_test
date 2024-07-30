@@ -1,0 +1,8 @@
+@using DevExpress.AspNetCore
+
+@(Html.DevExpress().RichEdit("DemoRichEdit")
+    .Ribbon(r => r.ActiveTabIndex(5))
+    .Height(600)
+    .ConfirmOnLosingChanges(c => c.Enabled(false))
+    .Open("Documents/Fields.docx")
+)
